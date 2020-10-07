@@ -20,6 +20,6 @@ namespace SklepTest
             Console.WriteLine("dodanie");
             Console.WriteLine("ile było w meczu Polska-Finlandia?");
 
-        }
+
     }
 }
