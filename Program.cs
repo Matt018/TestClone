@@ -19,6 +19,7 @@ namespace SklepTest
             Console.WriteLine("Hello Patryk! dodaje tutaj cos jeszcze");
             Console.WriteLine("dodanie");
             Console.WriteLine("ile było w meczu Polska-Finlandia?");
+            Console.WriteLine("Czy będzie błąd?");
 
 
     }
