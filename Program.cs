@@ -15,6 +15,7 @@ namespace SklepTest
             Console.WriteLine("Hello Maciej");
             Console.WriteLine("Hello Patryk!");
             Console.WriteLine("Hello Mateusz!");
+            Console.WriteLine("Gdzie jest damian?");
 
 
         }
