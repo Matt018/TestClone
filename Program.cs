@@ -13,7 +13,10 @@ namespace SklepTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Maciej");
-            Console.WriteLine("Hello Mateusz");
+            Console.WriteLine("Hello Patryk!");
+            Console.WriteLine("Hello Mateusz!");
+
+
         }
     }
 }
