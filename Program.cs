@@ -16,14 +16,10 @@ namespace SklepTest
             Console.WriteLine("Hello Patryk!");
             Console.WriteLine("Hello Mateusz!");
             Console.WriteLine("Gdzie jest damian?");
-
-
-<<<<<<< HEAD
             Console.WriteLine("Hello Patryk! dodaje tutaj cos jeszcze");
-
             Console.WriteLine("dodanie");
-=======
->>>>>>> 8bf9e00169cc6072e1349981df5160b1cf55abfa
+            Console.WriteLine("ile było w meczu Polska-Finlandia?");
+
         }
     }
 }
